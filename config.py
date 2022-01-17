@@ -22,7 +22,7 @@ if not HEROKU:
     API_ID = 1142474
     API_HASH = "d69d7397d46403cec4de1babe63ef35b"
     ARQ_API_KEY = "DDNBVO-XADJDI-GEFBDV-YFEGHV-ARQ"
-    CHAT_ID = -1001677483661
+    CHAT_ID = -1001192959588
     DEFAULT_SERVICE = "youtube"  # Must be one of "youtube"/"saavn"
     BITRATE = 512 # Must be 512/320
 
