@@ -24,7 +24,7 @@ if not HEROKU:
     ARQ_API_KEY = "DDNBVO-XADJDI-GEFBDV-YFEGHV-ARQ"
     CHAT_ID = -1001192959588
     DEFAULT_SERVICE = "youtube"  # Must be one of "youtube"/"saavn"
-    BITRATE = 512 # Must be 512/320
+    BITRATE = 320 # Must be 512/320
 
 # don't make changes below this line
 ARQ_API = "https://thearq.tech"
