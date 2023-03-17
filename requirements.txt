@@ -1,5 +1,5 @@
 Pillow
-pytgcalls-0.0.24-py3-none-any.whl
+pytgcalls-2.0.0-py3-none-any.whl
 ffmpeg-python
 python-arq
 Pyrogram
