@@ -1,5 +1,5 @@
 Pillow
-pytgcalls
+pytgcalls==2.0.0
 ffmpeg-python
 python-arq
 Pyrogram
